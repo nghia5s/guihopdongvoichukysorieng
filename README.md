@@ -1,9 +1,3 @@
-Dựa trên mã nguồn `sender_app.py` và `receiver_app.py` mà bạn cung cấp, đây là một bản **README.md** chuyên nghiệp và chi tiết, phù hợp cho bài tập lớn hoặc đồ án môn học An toàn thông tin/Lập trình mạng.
-
-Bạn có thể lưu nội dung dưới đây vào file tên là `README.md`.
-
----
-
 # Secure File Transfer System (Hệ thống Truyền tin An toàn)
 
 Ứng dụng truyền tải tệp tin (File Transfer) an toàn giữa Client (Sender) và Server (Receiver) sử dụng giao thức TCP/IP. Hệ thống đảm bảo tính bảo mật (Confidentiality), tính toàn vẹn (Integrity) và tính chống chối bỏ (Non-repudiation) thông qua việc áp dụng các kỹ thuật mã hóa hiện đại.
